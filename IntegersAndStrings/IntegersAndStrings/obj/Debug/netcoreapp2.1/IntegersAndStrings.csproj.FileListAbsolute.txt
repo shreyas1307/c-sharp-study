@@ -1,0 +1,11 @@
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\bin\Debug\netcoreapp2.1\IntegersAndStrings.deps.json
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\bin\Debug\netcoreapp2.1\IntegersAndStrings.runtimeconfig.json
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\bin\Debug\netcoreapp2.1\IntegersAndStrings.runtimeconfig.dev.json
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\bin\Debug\netcoreapp2.1\IntegersAndStrings.dll
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\bin\Debug\netcoreapp2.1\IntegersAndStrings.pdb
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\obj\Debug\netcoreapp2.1\IntegersAndStrings.csprojAssemblyReference.cache
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\obj\Debug\netcoreapp2.1\IntegersAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\obj\Debug\netcoreapp2.1\IntegersAndStrings.AssemblyInfoInputs.cache
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\obj\Debug\netcoreapp2.1\IntegersAndStrings.AssemblyInfo.cs
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\obj\Debug\netcoreapp2.1\IntegersAndStrings.dll
+C:\Users\ashth\Desktop\C#\IntegersAndStrings\IntegersAndStrings\obj\Debug\netcoreapp2.1\IntegersAndStrings.pdb
