@@ -27,21 +27,20 @@ namespace SimpleCalculatorApp
             Console.WriteLine("Would you like to Add, Subtract, Multiply or Divide?");
             arithmetic = Console.ReadLine();
 
-            if (arithmetic.ToLower() == "add")
+            switch(arithmetic.ToLower())
             {
-                Console.WriteLine($"The sum of {num1} + {num2} is {num1 + num2}"); 
-            }
-            else if (arithmetic.ToLower() == "subtract")
-            {
-                Console.WriteLine($"The subtracted result of {num1} and {num2} is {num1-num2}");
-            }
-            else if (arithmetic.ToLower() == "multiply")
-            {
-                Console.WriteLine($"The product of {num1} and {num2} is {num1*num2}");
-            }
-            else if (arithmetic.ToLower() == "divide")
-            {
-                Console.WriteLine($"The divided result of {num1} and {num2} is {num1/num2}");
+                case "add":
+                    Console.WriteLine($"The sum of {num1} + {num2} is {num1 + num2}");
+                    break;
+                case "subtract":
+                    Console.WriteLine($"The subtracted result of {num1} and {num2} is {num1 - num2}");
+                    break;
+                case "multiply":
+                    Console.WriteLine($"The product of {num1} and {num2} is {num1 * num2}");
+                    break;
+                case "divide":
+                    Console.WriteLine($"The divided result of {num1} and {num2} is {num1 / num2}");
+                    break;
             }
         }
     }
