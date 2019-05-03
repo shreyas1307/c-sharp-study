@@ -1,0 +1,11 @@
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\netcoreapp2.1\SimpleCalculatorApp.deps.json
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\netcoreapp2.1\SimpleCalculatorApp.runtimeconfig.json
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\netcoreapp2.1\SimpleCalculatorApp.runtimeconfig.dev.json
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\netcoreapp2.1\SimpleCalculatorApp.dll
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\netcoreapp2.1\SimpleCalculatorApp.pdb
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\netcoreapp2.1\SimpleCalculatorApp.csprojAssemblyReference.cache
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\netcoreapp2.1\SimpleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\netcoreapp2.1\SimpleCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\netcoreapp2.1\SimpleCalculatorApp.AssemblyInfo.cs
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\netcoreapp2.1\SimpleCalculatorApp.dll
+C:\Users\ashth\Desktop\C#\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\netcoreapp2.1\SimpleCalculatorApp.pdb
